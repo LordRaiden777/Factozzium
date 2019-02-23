@@ -1,0 +1,6 @@
+1. create Forex-Bank
+2. create Bookie-Club
+3. create Poker-Room
+4. create MMORPG Game
+5. create Casino
+6. create Crypto Factozzi
